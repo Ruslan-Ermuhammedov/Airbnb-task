@@ -1,0 +1,57 @@
+{
+  "imagesAll": [
+    {
+      "title": " Мале, Мальдивы",
+      "titleAll": "Отдельная комната, курорт, Мале, Мальдивы",
+      "price": 45189,
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-852899544635683289/original/c627f47e-8ca9-4471-90d4-1fd987dd2362.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-852918482922249722/original/e9b05964-aa31-4af7-886a-211a07133127.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-852918482922249722/original/7c97343f-8a2b-432d-b9e3-3ac152b45890.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-852918482922249722/original/185c8705-b5f5-4bf3-a71f-c44e99f37a9f.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-852918482922249722/original/19c7a282-4d20-450d-a0a5-6a1f606a0c45.jpeg?im_w=720"
+      ],
+      "id": "1"
+    },
+    {
+      "title": " Walden, Колорадо",
+      "titleAll": "Домик целиком, Walden, Колорадо, Соединенные Штаты",
+      "price": 9686,
+      "images": [
+        "https://a0.muscache.com/im/pictures/4df641cf-e98e-45fd-a27f-22d116d5a57e.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/32c1de96-54fc-409e-9bbb-89856edda8f3.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/33af23f6-aaf5-4fc3-94c5-706fdff223a8.jpg?im_w=720",
+        "https://a0.muscache.com/im/pictures/3d0ce778-c89f-4c00-89dc-e43a9d38424a.jpg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/3fc20c57-02e3-4f5b-a937-8ffd5d8f0972.jpg?im_w=720"
+      ],
+      "id": "2"
+    },
+    {
+      "title": " Inderøy, Норвегия",
+      "titleAll": "Домик целиком, Inderøy, Норвегия",
+      "price": 10538,
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50545526/original/af14ce0b-481e-41be-88d1-b84758f578e5.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50545526/original/1e552fce-6ecd-4f0c-aa37-5a849cb79c2e.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50545526/original/9a4fea2c-37af-466a-b549-d2bbaec97b36.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50545526/original/24c5abdf-ee32-4839-a6c1-c6a732b89199.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-50545526/original/3001a5fe-9166-4326-aafb-899a1b6c4a8d.jpeg?im_w=720"
+      ],
+      "id": "3"
+    },
+    {
+      "title": " Wansan-gu, Jeonju, Южная Корея",
+      "titleAll": "Домик целиком, Wansan-gu, Jeonju, Южная Корея",
+      "price": 17306,
+      "images": [
+        "https://a0.muscache.com/im/pictures/miso/Hosting-659600087552092324/original/273d5cbb-5b8d-4e5f-aee9-f11a7b6ede93.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-659600087552092324/original/a92f633f-b200-4443-b4c1-e9cc6c1edb11.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-659600087552092324/original/ce5b8434-9797-4170-bf25-14c14d8d9748.jpeg?im_w=720",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-659600087552092324/original/8a922cc9-2e94-4ecd-87e9-09b7dcb66157.jpeg?im_w=1200",
+        "https://a0.muscache.com/im/pictures/miso/Hosting-659600087552092324/original/0069f013-c3ac-4f2a-920a-c9056749d2af.jpeg?im_w=720"
+      ],
+      "id": "4"
+    }
+  
+  ]
+}
