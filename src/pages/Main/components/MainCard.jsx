@@ -3,9 +3,9 @@ import { FaRegHeart } from "react-icons/fa6";
 import { useNavigate } from 'react-router-dom';
 
 function MainCard({ item }) {
-  const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [iconVisible, setIconVisible] = useState(false);
   const navigate = useNavigate()
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const nextImage = () => {
     setCurrentImageIndex((prevIndex) => (prevIndex + 1) % item.images.length);
   };
